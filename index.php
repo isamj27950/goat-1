@@ -6,6 +6,7 @@ include('partials/_header.php')
 ?>
 <main class="px-20 py-20">
 	<!-- card -->
+	<p>hello</p>
 	<?php
 	$img = "mark.png";
 	$name = "Mark Zuckerberg";
