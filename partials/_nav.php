@@ -16,6 +16,15 @@ $navItems = [
     "name" => "Jack Ma",
     'url' => "jack.php"
   ],
+  [
+  "name" => "List goat",
+  'url' => "list-goat.php"
+],
+[
+  "name" => "new goat",
+  'url' => "new-goat.php"
+],
+
 ]
 
 ?>
