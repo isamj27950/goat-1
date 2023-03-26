@@ -18,10 +18,10 @@ $goat = get('goat');
         <p class="">Entreprise: <?= $goat['company_name']?><p>
         <p class="">Description: <?= $goat['description']?><p>
         <p class="">Sexe: <?= $goat['sexe']?><p>  
-            <div class="mt-10 text-center">
-             <a class="btn btn-info ">modifier</a>
-             <a  href="delete.php?id=<?=$goat['id']?>"class="btn btn-active btn-error">supprimer</a>
-            </div>
+        <div class="mt-10 text-center">
+            <a class="btn btn-info ">modifier</a>
+            <a  href="delete.php?id=<?=$goat['id']?>"class="btn btn-active btn-error">supprimer</a>
+        </div>
     </div>
 </diV>
 </main>                           
